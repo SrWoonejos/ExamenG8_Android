@@ -1,7 +1,8 @@
-package com.dmiranda.examenandroidg8
+package com.dmiranda.examenandroidg8.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.dmiranda.examenandroidg8.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

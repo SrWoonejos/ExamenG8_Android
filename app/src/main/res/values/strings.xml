@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ExamenAndroidG8</string>
+    <string name="asset_image" />
+    <string name="welcome">Welcome</string>
+    <string name="your_username"/>
+    <string name="stars">Nos importa tu opinion</string>
 </resources>
