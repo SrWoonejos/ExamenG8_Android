@@ -1,4 +1,4 @@
-package com.dmiranda.examenandroidg8.ui
+package com.dmiranda.examenandroidg8.utils
 
 import android.icu.text.SimpleDateFormat
 import android.os.Build
